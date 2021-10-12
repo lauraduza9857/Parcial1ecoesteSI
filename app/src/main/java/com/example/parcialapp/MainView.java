@@ -98,7 +98,7 @@ public class MainView extends AppCompatActivity {
 
         erase = findViewById(R.id.btnErase);
         erase.setOnClickListener((v)->{
-            msgController("Borrar");
+            msgController("B");
 
         });
 
